@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: Helvetica;
+    color:#212529;
+}
+p{
+    line-height: 2;
+    text-align: center;
+}
+#unicop{
+    line-height: 2;
+    text-align: justify;
+}
+h1,h2,h3{
+text-align: center;
+}
+
+header{
+    color:gray;
+    padding: 20px;
+}
+.header-text{
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+}
+h3{
+    font-size: 20px;
+}
+ul{
+    color:#212529;
+    list-style-type:disc;
+    line-height: 2;
+}
+
+nav.menu{
+    text-align: center;
+}
+nav.menu a{
+    font-size: 18px;
+    font-weight: 300;
+    text-decoration: none;
+    color: gray;
+    margin-right: 20px;
+    text-align: center;
+}
+.btn{
+    border: 1px solid black;
+    display: block;
+    width: 50px;
+    text-align: center;
+    text-decoration:cadetblue;
+    color:darkslategrey;
+    margin: auto;
+    padding: 15px;
+}
+
+.contact-btn{
+    background-color:dimgrey;
+    color:white;
+    margin-top: 50px;
+}
+nav.menu a:hover{
+    font-weight: 700;
+}
+/**Main */
+h2{
+    font-weight: 400;
+    width: 300px;
+    margin: 30px auto;
+}
+
+
+/*footer */
+footer{
+    background-color:rgb(65, 62, 62);
+    height: 100px;
+}
+footer p{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+/*services pagina */
+.proj-container{
+display: flex;
+}
+.proj-item{
+    width: 30%;
+    text-align: justify;
+    height: 350px;
+    background-color: lightgrey;
+    padding: 20px;
+    margin:20px;
+}
