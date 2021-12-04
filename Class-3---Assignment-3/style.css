@@ -1,0 +1,44 @@
+/*PALETA DE COLORES https://coolors.co/d2b7e5-c19ee0-b185db-a06cd5-9163cb-815ac0-7251b5-6247aa-7058b2 */
+
+body{
+    background-color:#DEC9E9;
+    font-family: Helvetica;
+}
+h1{
+    color:#6247AA;
+    text-align: center;
+    font-size: 40px;
+    background-color: #C19EE0;
+}
+h2{
+    color:#9163CB;
+    text-align: left;
+}
+p{
+    color:#212529;
+    text-align: justify;
+    line-height: 1,5;
+}
+#final{
+    text-align: center;
+    color:#6c757d;
+}
+ul{
+    color:#212529;
+    list-style-type:disc;
+}
+#titulo1{
+    list-style-type:square;
+}
+/* CAMBIA EL COLOR UNA VEZ YA HECHO CLICK EN EL */
+a:link{
+    color:#a01a58;
+}
+/* MUESTRA UN COLOR ANTES DE DAR CLICK*/
+a:visited{
+    color:#873695;
+}
+/*cambia el color cuando se pasa el cursor sobre la palabra */
+a:hover{
+    color:#3c096c;
+}
