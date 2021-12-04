@@ -1,0 +1,21 @@
+body{
+    background-color:#DEC9E9;
+    font-family: Helvetica;
+}
+h1{
+    color:#6247AA;
+    text-align: center;
+}
+h2{
+    color:#9163CB;
+    text-align: left;
+}
+p{
+    color:#212529;
+    text-align: justify;
+    line-height: 1,5;
+}
+#final{
+    text-align: center;
+    color:#6c757d;
+}
